@@ -1,0 +1,11 @@
+D:\TÔI YÊU HUIT\HK1 (2025-2026)\Phân tích và thiết kế thuật toán\SortingSimulation\bin\Debug\SortingSimulation.exe.config
+D:\TÔI YÊU HUIT\HK1 (2025-2026)\Phân tích và thiết kế thuật toán\SortingSimulation\bin\Debug\SortingSimulation.exe
+D:\TÔI YÊU HUIT\HK1 (2025-2026)\Phân tích và thiết kế thuật toán\SortingSimulation\bin\Debug\SortingSimulation.pdb
+D:\TÔI YÊU HUIT\HK1 (2025-2026)\Phân tích và thiết kế thuật toán\SortingSimulation\obj\Debug\SortingSimulation.csproj.AssemblyReference.cache
+D:\TÔI YÊU HUIT\HK1 (2025-2026)\Phân tích và thiết kế thuật toán\SortingSimulation\obj\Debug\SortingSimulation.MainForm.resources
+D:\TÔI YÊU HUIT\HK1 (2025-2026)\Phân tích và thiết kế thuật toán\SortingSimulation\obj\Debug\SortingSimulation.Properties.Resources.resources
+D:\TÔI YÊU HUIT\HK1 (2025-2026)\Phân tích và thiết kế thuật toán\SortingSimulation\obj\Debug\SortingSimulation.csproj.GenerateResource.cache
+D:\TÔI YÊU HUIT\HK1 (2025-2026)\Phân tích và thiết kế thuật toán\SortingSimulation\obj\Debug\SortingSimulation.csproj.CoreCompileInputs.cache
+D:\TÔI YÊU HUIT\HK1 (2025-2026)\Phân tích và thiết kế thuật toán\SortingSimulation\obj\Debug\SortingSimulation.exe
+D:\TÔI YÊU HUIT\HK1 (2025-2026)\Phân tích và thiết kế thuật toán\SortingSimulation\obj\Debug\SortingSimulation.pdb
+D:\TÔI YÊU HUIT\HK1 (2025-2026)\Phân tích và thiết kế thuật toán\SortingSimulation\obj\Debug\SortingSimulation.exe.config
